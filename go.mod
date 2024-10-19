@@ -6,7 +6,7 @@ go 1.18
 
 require (
 	github.com/btcsuite/btcd v0.24.0
-	github.com/btcsuite/btcd/btcec/v2 v2.3.2
+	github.com/btcsuite/btcd/btcec/v2 v2.3.4
 	github.com/btcsuite/btcd/btcutil v1.1.5
 	github.com/defiweb/go-anymapper v0.3.0
 	github.com/defiweb/go-rlp v0.3.0
